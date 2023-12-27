@@ -1,3 +1,6 @@
+# Mes commandes
+## Ionic
+``` bash
 npm install @capacitor/cli@latest-3 @capacitor/core@latest-3
 npm update
 node --version
@@ -11,3 +14,4 @@ ionic g page pages/moviesDetails
 ionic g service services/movie
 ionic cap add android
 npx cap open android
+```
